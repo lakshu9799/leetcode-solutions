@@ -18,5 +18,5 @@ This repository contains my Data Structures & Algorithms (DSA) and Competitive P
 - Stay consistent with #100DaysOfCode
 
 ## Connect With Me
-- LinkedIn: (your LinkedIn profile link)
+- LinkedIn: www.linkedin.com/in/lakshya-pandya-933b17325
 - GitHub: https://github.com/lakshu9799
